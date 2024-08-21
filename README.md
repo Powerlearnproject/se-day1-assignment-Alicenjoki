@@ -103,7 +103,7 @@ Examples: Eclipse, IntelliJ IDEA, Visual Studio Code
 
 b) Version Control Systems (VCS)
 VCSs improve software development by:
-1. Code History Tracking: They allow developers to track changes made to the codebase over time, enabling them to revert to previous versions if necessary.
+1. Code History Tracking: They allow developers to track changes made to the codebase over time, enabling them to revert to previous versions if necessary
 2. Branching and Merging: VCSs support branching, which allows multiple developers to work on different versions of the code without affecting the main branch. Merging allows them to integrate their changes back into the main branch.
 3. Collaboration and Conflict Resolution: They facilitate collaboration by allowing developers to work on the same project simultaneously. VCSs also provide conflict resolution mechanisms to prevent code overrides.
 4. Code Backup and Recovery: VCSs store copies of the codebase on remote servers, ensuring data backup and recovery in case of data loss.
